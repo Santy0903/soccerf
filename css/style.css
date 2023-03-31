@@ -1,0 +1,15 @@
+#equipos{
+    display: none;
+}
+#jugadores{
+    display: none;
+}
+#cuerpotec{
+    display: none;
+}
+#cuerpomedi{
+    display: none;
+}
+.card{
+    padding: 1.5rem;
+}
